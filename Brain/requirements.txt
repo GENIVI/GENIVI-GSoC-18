@@ -2,6 +2,6 @@ twine==1.11.0
 wheel==0.33.4
 setuptools==28.8.0
 numpy==1.14.3
-nltk==3.3
+nltk==3.4.5
 pip==9.0.3
 setuptools==28.8.0

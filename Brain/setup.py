@@ -10,6 +10,6 @@ setup(name='emucorebrain',
       packages=['emucorebrain.consts', 'emucorebrain.core', 'emucorebrain.data', 'emucorebrain.data.abstracts',
                 'emucorebrain.data.carriers', 'emucorebrain.data.containers', 'emucorebrain.data.models',
                 'emucorebrain.io', 'emucorebrain.io.mechanisms', 'emucorebrain.keywords', 'emucorebrain.processes'],
-      install_requires=["nltk==3.3"],
+      install_requires=["nltk==3.4.5"],
       zip_safe=False
       )
